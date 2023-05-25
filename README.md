@@ -1,7 +1,7 @@
 
 #Application Designed as alura/Oracle next Education Program Development
 by: Sebastian Cely Peña Developer - (SebastianL2)
-Tools >
+Tools >                                                               
 LIBRARIES:     
                REACTJS
                STYLED-COMPONENTS
@@ -9,7 +9,7 @@ LIBRARIES:
 
 #Aplicativo  Diseñado como Desarrollo del programa alura/Oracle next Education
 by: Sebastian Cely Peña Developer - (SebastianL2)
-Herrammientas >
+Herrammientas >                                                                       
 LIBRERIAS:     
                REACTJS
                STYLED-COMPONENTS
