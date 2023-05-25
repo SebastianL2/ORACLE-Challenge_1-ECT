@@ -1,3 +1,11 @@
+
+#React Application Designed as alura/Oracle next Education Program Development
+by: Sebastian Cely Peña Developer - (SebastianL2)
+
+
+#Aplicativo en react Diseñado como Desarrollo del programa alura/Oracle next Education
+by: Sebastian Cely Peña Developer - (SebastianL2)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
