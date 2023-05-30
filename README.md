@@ -13,8 +13,8 @@ Herrammientas >
 LIBRERIAS:     
                REACTJS
                STYLED-COMPONENTS
-<title> PAGINA DE ENCRIPTADOR DE TEXTO </title>
-<h1> By: Sebastian Cely Peña <h1/>
+<h1> PAGINA DE ENCRIPTADOR DE TEXTO <h1/>
+<h2> By: Sebastian Cely Peña <h2/>
  <a href="https://sebastianl2.github.io/ORACLE-Challenge_1-ECT/">Visualiza mi poryecto (view)</a>
 
 # Getting Started with Create React App
