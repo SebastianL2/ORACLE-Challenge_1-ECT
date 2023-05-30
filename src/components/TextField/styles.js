@@ -90,7 +90,7 @@ export const Button = styled.div`
     display: flex;
     flex-direction: row;
     align-items: flex-start;
-    padding: 0px;
+    padding: 4px;
     gap: 24px;
     text-align: center;
     position: absolute;
@@ -103,7 +103,7 @@ export const Button = styled.div`
             color: #F3F5FC;
             flex-direction: row;
             align-items: flex-start;
-            padding: 24px;
+            
             gap: 8px;
             border: none;
             width: 228px;
@@ -150,7 +150,7 @@ export const Button = styled.div`
         color: #0A3871;
         flex-direction: row;
         align-items: flex-start;
-        padding: 24px;
+        
         gap: 8px;
         font-size: 19px;
        
@@ -193,7 +193,7 @@ export const Button = styled.div`
   @media (max-width: 768px) {
     left: 120px;
     top: 450px;
-
+    
     > .Btn1,
     > .Btn2 {
       width: 180px;
@@ -202,22 +202,30 @@ export const Button = styled.div`
       line-height: 17px;
       padding: 16px;
       gap: 6px;
+      margin-left: 40px;
     }
   }
 
   /* Estilos para pantallas aún más pequeñas */
   @media (max-width: 480px) {
-    left: 40px;
-    top: 350px;
-
-    > .Btn1,
-    > .Btn2 {
-      width: 160px;
+    left: 10px;
+    top: 80px;
+    gap: 1px;
+    > .Btn1{
+      width: 120px;
       height: 40px;
       font-size: 12px;
       line-height: 14px;
-      padding: 12px;
-      gap: 4px;
+      padding: 5px;
+    }
+    > .Btn2 {
+      width: 120px;
+      height: 40px;
+      font-size: 12px;
+      line-height: 14px;
+      padding: 5px;
+    
+      
     }
   }
 
@@ -321,10 +329,11 @@ export const Textarea = styled.div`
   @media (max-width: 768px) {
     width: 90%;
     height: 200px;
-    left: 20px;
+    margin-left: 30px;
     top: 120px;
     font-size: 18px;
     line-height: 130%;
+  
   }
   @media (max-width: 820px) {
     width: 90%;
@@ -343,6 +352,25 @@ export const Textarea = styled.div`
     top: 80px;
     font-size: 16px;
     line-height: 120%;
+    margin-top: 70px;
+    >textarea{ 
+    width: 370px;
+    margin-left: -39px;
+    margin-top: -15px;
+    height: 130px;
+    outline: none;
+    background: #F3F5FC;
+    font-weight: 400;
+    font-size: 19px;
+    line-height: 150%;
+    color: #0A3871;
+    resize: none;
+    border: 0.1px solid #ccc; /* Ajusta el estilo del borde según tus necesidades */
+    border-radius: 2px; 
+    scrollbar-width: thin;
+    scrollbar-color: rgba(0, 0, 0, 0.3) transparent;
   }
+  }
+
                   
 `

@@ -13,7 +13,7 @@ export const TextShow = ({texto,etiqueta,validacion}) => {
         <>
           <img src={rpIcon} alt="!aviso" />
           <Mensaje>Ningún mensaje fue encontrado</Mensaje>
-          <p className='ppl'>Ingresa el texto que desees encriptar o desencriptar.</p>
+          <p className='ppl'>Ingresa el texto que desees encriptar o desencriptar 🗳️.</p>
           {validacion=null}
         </>
       ) : (//else

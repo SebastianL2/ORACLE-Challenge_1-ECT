@@ -73,14 +73,14 @@ export const Header= styled.div`
   }
   
   @media (max-width: 375px) {
-    width: 60px;
-    height: 32px;
+    width: 40px;
+    height: 40px;
     left: 10px;
     top: 10px;
 
     > img {
-      width: 60px;
-      height: 24px;
+      width: 40px;
+      height: 40px;
     }
   }
 

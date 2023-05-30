@@ -9,8 +9,8 @@ import styled, { keyframes} from 'styled-components'
   100% {
     transform: scale(1);
   }
-` 
---*/
+`*/
+
 const pulseAnimation = keyframes`
   0% {
     transform: scale(1);
@@ -22,7 +22,17 @@ const pulseAnimation = keyframes`
     transform: scale(1);
   }
 `;
-
+const pulseAnimation2 = keyframes`
+  0% {
+    transform: scale(0.7);
+  }
+  50% {
+    transform: scale(1);
+  }
+  100% {
+    transform: scale(0.7);
+  }
+`;
 export const Rectangle = styled.div`
   position: fixed;
   display: flex;
@@ -80,7 +90,7 @@ export const Rectangle = styled.div`
     width: 580px;
     height: 300px;
     left: 50%;
-    top: 30px;
+    top: 90px;
     transform: translateX(-50%) translateY(-5%);
 
     > img {
@@ -93,20 +103,28 @@ export const Rectangle = styled.div`
     }
   }
   @media (max-width: 480px) {
-    width: 240px;
-    height: 400px;
+    width: 375px;
+    height: 164px;
     left: 50%;
-    top: 20px;
+    top: 280px;
     transform: translateX(-50%) translateY(-5%);
-
+    border-radius: 2px;
+    align-items: initial;
     > img {
-      width: 200px;
-      height: 213px;
+      width: 210px;
+      height: 103px;
+      transform: translateY(35%);
+      margin-left: -10px;
     }
 
     > .ppl {
       width: 210px;
+      margin-left: 160px;
+      transform: translateY(-160%);
+
     }
+
+  
   }
 `
 
@@ -148,7 +166,7 @@ export const Div = styled.div`
     gap: 8px;
     align-items: center;
     width: 106px;
-    height: 10px;
+    height: 9px;
     justify-content: center;
     margin-bottom: 131px;
     margin-left: 122px;
@@ -176,7 +194,7 @@ export const Div = styled.div`
     line-height: 150%;
     text-align: left;
     margin-top: 32px;
-    margin-bottom: 31px;
+    margin-bottom: 22px;
     margin-left: 32px;
     margin-right: 32px;
     color: #495057;
@@ -227,51 +245,58 @@ export const Div = styled.div`
   }
 
   @media (max-width: 768px) {
-    width: 300px;
-    height: 500px;
+    width: 500px;
+    height: 300px;
     left: 50%;
-    transform: translateX(-50%);
+    
 
     .btn {
+      top: 20px;
       width: 90px;
-      margin-bottom: 100px;
-      margin-left: 80px;
+      margin-bottom: 30px;
+      margin-left: 190px;
     }
 
     .outs {
-      width: 240px;
-      height: 400px;
+      width: 470px;
+      height: 200px;
       left: 50%;
-      transform: translateX(-50%);
+     
       margin-top: 20px;
-      margin-bottom: 20px;
+      margin-bottom: 10px;
       margin-left: 20px;
       margin-right: 20px;
     }
   }
 
   @media (max-width: 480px) {
-    width: 250px;
-    height: 400px;
+    width: 375px;
+    height: 164px;
     left: 50%;
-    transform: translateX(-50%);
+    top: 280px;
+    transform: translateX(10%) translateY(-5%);
+
 
     .btn {
-      width: 80px;
-      margin-bottom: 80px;
-      margin-left: 60px;
+      width: 90px;
+      height: 1px;
+      font-size: 15px;
+      margin-bottom: 70px;
+      margin-left: 240px;
+      transform: scale(0.7); /* Ajusta el valor según tus necesidades */
+      animation: ${pulseAnimation2} 0.3s linear;
     }
-
+  
     .outs {
-      width: 200px;
-      height: 320px;
-      left: 50%;
-      transform: translateX(-50%);
-      margin-top: 10px;
-      margin-bottom: 10px;
-      margin-left: 10px;
+      width: 360px;
+      height: 100px;
+      
+      
+      margin-top: 20px;
+      margin-bottom: 1px;
+      margin-left: -30px;
       margin-right: 10px;
-      font-size: 16px;
+      font-size: 18px;
     }
   }
 
@@ -291,4 +316,12 @@ export const Mensaje = styled.p`
   color: #343A40;
   margin-top: 10px;
   margin-bottom: 0px;
+
+  @media (max-width: 480px) {
+    margin-bottom: 0px;
+    transform: translateY(-200%);
+    font-size: 14px;
+    margin-left: 160px;
+   
+  }
 `

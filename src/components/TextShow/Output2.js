@@ -39,7 +39,7 @@ export const Output2 = ({entrada}) => {
   entrada = reemplazarTexto (entrada);
 return (
 <Div>
-<p className='outs'>{entrada}</p>
+<textarea readOnly className='outs' value={entrada}></textarea>
 <button className='btn'  onClick={handleCopyClick}>{copy}</button>
 
 
