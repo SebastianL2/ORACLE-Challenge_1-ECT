@@ -1,3 +1,7 @@
+<h1> PAGINA DE ENCRIPTADOR DE TEXTO <h1/>
+<h2> By: Sebastian Cely Peña <h2/>
+ <a href="https://sebastianl2.github.io/ORACLE-Challenge_1-ECT/">Visualiza mi poryecto (view)</a>
+
 
 # Application Designed as alura/Oracle next Education Program Development
 by: Sebastian Cely Peña Developer - (SebastianL2)
@@ -13,9 +17,7 @@ Herrammientas >
 LIBRERIAS:     
                REACTJS
                STYLED-COMPONENTS
-<h1> PAGINA DE ENCRIPTADOR DE TEXTO <h1/>
-<h2> By: Sebastian Cely Peña <h2/>
- <a href="https://sebastianl2.github.io/ORACLE-Challenge_1-ECT/">Visualiza mi poryecto (view)</a>
+
 
 # Getting Started with Create React App
 
