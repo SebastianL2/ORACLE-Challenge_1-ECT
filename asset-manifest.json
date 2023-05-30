@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/ORACLE-Challenge_1-ECT/static/css/main.4df4557b.css",
+    "main.js": "/ORACLE-Challenge_1-ECT/static/js/main.228afe89.js",
+    "static/js/787.3b9b4c40.chunk.js": "/ORACLE-Challenge_1-ECT/static/js/787.3b9b4c40.chunk.js",
+    "static/media/Muñeco.svg": "/ORACLE-Challenge_1-ECT/static/media/Muñeco.cd57497a937c57681e0c30c45b9d3db9.svg",
+    "static/media/Logo.svg": "/ORACLE-Challenge_1-ECT/static/media/Logo.485da93e8dd21ce3fedf11ff3cb62b57.svg",
+    "static/media/Avt.svg": "/ORACLE-Challenge_1-ECT/static/media/Avt.59a7e2024b6e5887f17afb221aa4d077.svg",
+    "index.html": "/ORACLE-Challenge_1-ECT/index.html",
+    "main.4df4557b.css.map": "/ORACLE-Challenge_1-ECT/static/css/main.4df4557b.css.map",
+    "main.228afe89.js.map": "/ORACLE-Challenge_1-ECT/static/js/main.228afe89.js.map",
+    "787.3b9b4c40.chunk.js.map": "/ORACLE-Challenge_1-ECT/static/js/787.3b9b4c40.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4df4557b.css",
+    "static/js/main.228afe89.js"
+  ]
+}
