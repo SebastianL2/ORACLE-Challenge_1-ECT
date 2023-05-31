@@ -1,7 +1,7 @@
 <h1> 🚀 Challenge Encriptador | Oracle + Alura <h1/>
 <h2> By: Sebastian Cely Peña <h2/>
  <a href="https://sebastianl2.github.io/ORACLE-Challenge_1-ECT/">Visualiza mi poryecto (view)</a>
-![image](https://github.com/SebastianL2/ORACLE-Challenge_1-ECT/assets/120439871/60e974f4-3258-4f23-b589-37fa11349d13)
+
 
 
 # Application Designed as alura/Oracle next Education Program Development
