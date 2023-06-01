@@ -18,7 +18,7 @@
 
 # lIBRERIAS:
   <div align="center">
-    <img src="https://img.shields.io/badge/JavaScript-FEFF01?logo=javascript&logoColor=000000&style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge"/>
     
 </div>  
  
