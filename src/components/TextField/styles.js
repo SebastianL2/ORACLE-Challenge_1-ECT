@@ -42,7 +42,22 @@ export const Aviso = styled.div`
     background: white;
     gap: 8px;
   }
- 
+  @media (max-width: 480px) {
+    left: 10px;
+    width: 100%;
+    height: auto;
+    padding: 5px;
+    font-size: 12px;
+    line-height: 120%;
+    margin-top: -466px;
+    margin-left: 75px;
+    animation-delay: initial;
+
+    > img {
+      width: 14px;
+      height: 14px;
+    }
+  }
   /* Estilos para dispositivos móviles */
   @media (max-width: 767px) {
     left: 10px;
@@ -51,7 +66,7 @@ export const Aviso = styled.div`
     padding: 5px;
     font-size: 12px;
     line-height: 120%;
-    animation: none;
+    
     animation-delay: initial;
 
     > img {
@@ -208,7 +223,7 @@ export const Button = styled.div`
 
   /* Estilos para pantallas aún más pequeñas */
   @media (max-width: 480px) {
-    left: 10px;
+    left: 18px;
     top: 80px;
     gap: 1px;
     > .Btn1{
