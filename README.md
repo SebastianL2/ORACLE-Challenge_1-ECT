@@ -30,24 +30,6 @@ LIBRERIAS:
 ![Vistaprevia](./assets/version3beta.png)
 ![Vistaprevia](./assets/v3modal.png)  
 
-
-# Funciones adicionales agregadas  
-
-|  Estado  |  Funcion  |
-|  -------------  |  -------------  |
-|  ⚡  |  Sistema de identificacion del texto casos: si ya esta encriptado,enmayusculas,acentos,desencriptado  |
-|  ⚡  |   Cambio de temas claro o oscuro |
-|  ⚡  |  Agregado boton para pegar texto  |
-
-*Solo contara la palabra si contiene por lo menos una letra de la llaves,  
-**Por el momento con algunas limitantes
-
-
-# 🔨 Funciones en desarrollo  
-
-|  Estado  |  Funcion  |
-|  -------------  |  -------------  |
-|  🔨 |  Trabajando en selector de temas  |
  
 # ❄️Caracterisiticas del Challenge| proyecto
 
@@ -68,6 +50,25 @@ Las "llaves" de encriptación:
 |☑️|Debe ser posible convertir una palabra para la versión encriptada también devolver una palabra encriptada para su versión original|
 |☑️|La página debe tener campos para inserción del texto que será encriptado o desencriptado, y el usuario debe poder escoger entre las dos opciones|
 |☑️|El resultado debe ser mostrado en la pantalla|
+ 
+# Funciones adicionales agregadas  
+
+|  Estado  |  Funcion  |
+|  -------------  |  -------------  |
+|  ⚡  |  Sistema de identificacion del texto casos: si ya esta encriptado,enmayusculas,acentos,desencriptado  |
+|  ⚡  |   Cambio de temas claro o oscuro |
+|  ⚡  |  Agregado boton para pegar texto  |
+
+*Solo contara la palabra si contiene por lo menos una letra de la llaves,  
+**Por el momento con algunas limitantes
+
+
+# 🔨 Funciones en desarrollo  
+
+|  Estado  |  Funcion  |
+|  -------------  |  -------------  |
+|  🔨 |  Trabajando en selector de temas  |
+
 
 
 
