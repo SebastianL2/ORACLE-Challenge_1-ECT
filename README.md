@@ -58,9 +58,8 @@ Las "llaves" de encriptación:
 |  ⚡  |  Sistema de identificacion del texto casos: si ya esta encriptado,enmayusculas,acentos,desencriptado  |
 |  ⚡  |   Cambio de temas claro o oscuro |
 |  ⚡  |  Agregado boton para pegar texto  |
+|  ⚡  | Animaciones para: botone, aviso de mayusculas |
 
-*Solo contara la palabra si contiene por lo menos una letra de la llaves,  
-**Por el momento con algunas limitantes
 
 
 # 🔨 Funciones en desarrollo  
