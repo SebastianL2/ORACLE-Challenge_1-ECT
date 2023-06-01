@@ -3,7 +3,7 @@
 <a href="https://sebastianl2.github.io/ORACLE-Challenge_1-ECT/">Visualiza mi poryecto (lINK)</a>
 
 
-
+#  Version 0.1
 ![Vistaprevia](./public/imagesrd/Captura.PNG)
 
 <div align="center">
@@ -11,10 +11,9 @@
     <img src="https://img.shields.io/badge/HTML-EC6231?logo=html5&logoColor=FFFFFF&style=for-the-badge" />
     <img src="https://img.shields.io/badge/CSS-01A3D8?logo=css3&logoColor=FFFFFF&style=for-the-badge" />
 </div>  
-#  Version 0.1
 
-![Vistaprevia](./assets/version3beta.png)
-![Vistaprevia](./assets/v3modal.png)  
+
+
 
  
 # ❄️Caracterisiticas del Challenge| proyecto
