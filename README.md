@@ -2,7 +2,7 @@
 <h1> 🚀 Challenge Encriptador | Oracle + Alura <h1/>
 <h2> By: Sebastian Cely Peña <h2/>
 <a href="https://sebastianl2.github.io/ORACLE-Challenge_1-ECT/">Visualiza mi poryecto (lINK)</a>
-    #  Version 0.1
+  <h1> Version 0.1 <h1/>
 </div> 
 
 
