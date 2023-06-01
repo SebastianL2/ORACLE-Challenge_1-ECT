@@ -3,22 +3,7 @@
  <a href="https://sebastianl2.github.io/ORACLE-Challenge_1-ECT/">Visualiza mi poryecto (view)</a>
 
 
-
-# Application Designed as alura/Oracle next Education Program Development
-by: Sebastian Cely Peña Developer - (SebastianL2)
-Tools >                                                               
-LIBRARIES:     
-               REACTJS
-               STYLED-COMPONENTS
-
-
-# Aplicativo  Diseñado como Desarrollo del programa alura/Oracle next Education
-by: Sebastian Cely Peña Developer - (SebastianL2)
-Herrammientas >                                                                       
-LIBRERIAS:     
-               REACTJS
-               STYLED-COMPONENTS
-
+![Vistaprevia](./assets/version3beta.png)
 
 <div align="center">
     <img src="https://img.shields.io/badge/JavaScript-FEFF01?logo=javascript&logoColor=000000&style=for-the-badge"/>
@@ -69,6 +54,22 @@ Las "llaves" de encriptación:
 |  🔨 |  Trabajando en selector de temas  |
 
 
+
+
+# Application Designed as alura/Oracle next Education Program Development
+by: Sebastian Cely Peña Developer - (SebastianL2)
+Tools >                                                               
+LIBRARIES:     
+               REACTJS
+               STYLED-COMPONENTS
+
+
+# Aplicativo  Diseñado como Desarrollo del programa alura/Oracle next Education
+by: Sebastian Cely Peña Developer - (SebastianL2)
+Herrammientas >                                                                       
+LIBRERIAS:     
+               REACTJS
+               STYLED-COMPONENTS
 
 
 
