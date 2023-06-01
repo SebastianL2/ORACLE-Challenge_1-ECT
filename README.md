@@ -1,5 +1,5 @@
 <div align="center">
-<h1> 🚀 Challenge Encriptador | Oracle + Alura <h1/>
+<h1> 🔅 Challenge Encriptador | Oracle + Alura <h1/>
 <h2> By: Sebastian Cely Peña <h2/>
 <a href="https://sebastianl2.github.io/ORACLE-Challenge_1-ECT/">Visualiza mi poryecto (lINK)</a>
   
