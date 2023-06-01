@@ -20,29 +20,38 @@ LIBRERIAS:
                STYLED-COMPONENTS
 
 
-# 💾Encriptador Version Beta 3.0 
-Para probar el encriptador ingresa. Todavia es un trabajo en progreso...  
-
-![Vistaprevia](./assets/version3beta.png)
-![Vistaprevia](./assets/v3modal.png)  
-
-Modo responsivo  
-![Vistaprevia](./assets/EResponsivo.jpg)
-![Vistaprevia](./assets/EResponsivo2.jpg)
-![Vistaprevia](./assets/ModalResponsivo.jpg)
-## Version antigua
-![Vistaprevia](./assets/vistaprevia.png)    
-Para el programa ORACLE ONE NEXT EDUCATION    
-https://www.oracle.com/mx/education/oracle-next-education/
 <div align="center">
     <img src="https://img.shields.io/badge/JavaScript-FEFF01?logo=javascript&logoColor=000000&style=for-the-badge"/>
     <img src="https://img.shields.io/badge/HTML-EC6231?logo=html5&logoColor=FFFFFF&style=for-the-badge" />
     <img src="https://img.shields.io/badge/CSS-01A3D8?logo=css3&logoColor=FFFFFF&style=for-the-badge" />
 </div>  
+#  Version 0.1
 
-# 📖Caracterisiticas solicitadas
+![Vistaprevia](./assets/version3beta.png)
+![Vistaprevia](./assets/v3modal.png)  
 
-Las "llaves" de encriptación que se utilizaran son las siguientes:
+
+# Funciones adicionales agregadas  
+
+|  Estado  |  Funcion  |
+|  -------------  |  -------------  |
+|  ⚡  |  Sistema de identificacion del texto casos: si ya esta encriptado,enmayusculas,acentos,desencriptado  |
+|  ⚡  |   Cambio de temas claro o oscuro |
+|  ⚡  |  Agregado boton para pegar texto  |
+
+*Solo contara la palabra si contiene por lo menos una letra de la llaves,  
+**Por el momento con algunas limitantes
+
+
+# 🔨 Funciones en desarrollo  
+
+|  Estado  |  Funcion  |
+|  -------------  |  -------------  |
+|  🔨 |  Trabajando en selector de temas  |
+ 
+# ❄️Caracterisiticas del Challenge| proyecto
+
+Las "llaves" de encriptación:
 
 - La letra **"e"** es convertida para "enter"  
 - La letra **"i"** es convertida para **"imes"**  
@@ -65,34 +74,7 @@ La página debe tener campos para inserción del texto que será encriptado o de
 
 El resultado debe ser mostrado en la pantalla.  
 
-# ✅ Extras:
 
-Un botón que copie el texto encriptado/desencriptado para la sección de transferencia, o sea que tenga la misma funcionalidad del ctrl+C o de la opción "copiar" del menú de las aplicaciones.
-
-# Funciones adicionales agregadas  
-
-|  Estado  |  Funcion  |
-|  -------------  |  -------------  |
-|  ✅  |  Modo espejo para las cajas de texto  |
-|  ✅  |  Textarea dinamica (Solo aparece si detecta texto)  |
-|  ✅  |  Agregado el boton restablecer area de trabajo, evita recargar la pagina  |  
-|  ✅  |  Agregado boton para pegar texto  |
-|  ✅  |  Agregada notificaciones tipo toast  |  
-|  ✅  |  Agregado un contador de palabras encriptadas*   |
-|  ✅  |  Agregado Historial   |
-|  ✅  |  Restablecer historial con un solo click   |
-|  ✅  |  Eliminar sesiones previas   | 
-|  ✅  |  Responsivo   | 
-
-*Solo contara la palabra si contiene por lo menos una letra de la llaves,  
-**Por el momento con algunas limitantes
-
-
-# ❓Funciones en desarrollo  
-
-|  Estado  |  Funcion  |
-|  -------------  |  -------------  |
-|  ❓ |  Trabajando en selector de temas  |
 
 
 
