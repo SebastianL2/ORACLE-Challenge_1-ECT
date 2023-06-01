@@ -1,10 +1,10 @@
 <h1> 🚀 Challenge Encriptador | Oracle + Alura <h1/>
 <h2> By: Sebastian Cely Peña <h2/>
  <a href="https://sebastianl2.github.io/ORACLE-Challenge_1-ECT/">Visualiza mi poryecto (view)</a>
-![Uploading image.png…]()
 
 
-![Vistaprevia](./assets/version3beta.png)
+
+![Vistaprevia](./public/imagesrd/Captura.png)
 
 <div align="center">
     <img src="https://img.shields.io/badge/JavaScript-FEFF01?logo=javascript&logoColor=000000&style=for-the-badge"/>
