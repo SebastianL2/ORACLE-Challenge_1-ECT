@@ -60,7 +60,8 @@ Las "llaves" de encriptación:
 - La letra **"u"** es convertida para **"ufat"**  
 
 # ⛳ Requisitos  
-
+|  Estado  |  Funcion  |
+|  -------------  |  -------------  |
 |☑️|Debe funcionar solo con letras minúsculas|  
 |☑️|No deben ser utilizados letras con acentos ni caracteres especiales  
 |☑️|Debe ser posible convertir una palabra para la versión encriptada también devolver una palabra encriptada para su versión original|
