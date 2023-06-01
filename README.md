@@ -4,7 +4,7 @@
 
 
 
-![Vistaprevia](./public/imagesrd/Captura.png)
+![Vistaprevia](./public/imagesrd/Captura.PNG)
 
 <div align="center">
     <img src="https://img.shields.io/badge/JavaScript-FEFF01?logo=javascript&logoColor=000000&style=for-the-badge"/>
