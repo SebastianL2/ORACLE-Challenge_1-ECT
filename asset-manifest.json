@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/ORACLE-Challenge_1-ECT/static/css/main.8804e370.css",
-    "main.js": "/ORACLE-Challenge_1-ECT/static/js/main.deed7b63.js",
+    "main.css": "/ORACLE-Challenge_1-ECT/static/css/main.3b194fc0.css",
+    "main.js": "/ORACLE-Challenge_1-ECT/static/js/main.a9f631a4.js",
     "static/js/787.3b9b4c40.chunk.js": "/ORACLE-Challenge_1-ECT/static/js/787.3b9b4c40.chunk.js",
     "static/media/Muñeco.svg": "/ORACLE-Challenge_1-ECT/static/media/Muñeco.3f0f88fda01be6f408ae03db47e02cb2.svg",
     "static/media/Logo1.svg": "/ORACLE-Challenge_1-ECT/static/media/Logo1.cfc5525aecedadd3b1297284aa6ed8d6.svg",
     "static/media/Logo2.svg": "/ORACLE-Challenge_1-ECT/static/media/Logo2.4ede59a21a94732b277b16593f778ddc.svg",
     "static/media/Avt.svg": "/ORACLE-Challenge_1-ECT/static/media/Avt.59a7e2024b6e5887f17afb221aa4d077.svg",
     "index.html": "/ORACLE-Challenge_1-ECT/index.html",
-    "main.8804e370.css.map": "/ORACLE-Challenge_1-ECT/static/css/main.8804e370.css.map",
-    "main.deed7b63.js.map": "/ORACLE-Challenge_1-ECT/static/js/main.deed7b63.js.map",
+    "main.3b194fc0.css.map": "/ORACLE-Challenge_1-ECT/static/css/main.3b194fc0.css.map",
+    "main.a9f631a4.js.map": "/ORACLE-Challenge_1-ECT/static/js/main.a9f631a4.js.map",
     "787.3b9b4c40.chunk.js.map": "/ORACLE-Challenge_1-ECT/static/js/787.3b9b4c40.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8804e370.css",
-    "static/js/main.deed7b63.js"
+    "static/css/main.3b194fc0.css",
+    "static/js/main.a9f631a4.js"
   ]
 }
