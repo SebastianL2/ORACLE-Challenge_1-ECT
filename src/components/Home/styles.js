@@ -8,7 +8,7 @@ export const Container = styled.div `
   
   
   overflow: auto;
-  background: #F3F5FC;
+  background: ${({theme})=> theme.bcg};
   @media (max-width: 767px) {
     width: 100%;
   }

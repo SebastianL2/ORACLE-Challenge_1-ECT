@@ -13,7 +13,7 @@ const shakeAnimation = keyframes`
 export const Aviso = styled.div`
   /*animacion*/
  
-
+  color:  ${({theme})=> theme.text};
   position: fixed;
   display: flex;
   align-items: center; /* Alinea verticalmente los elementos */
@@ -115,7 +115,7 @@ export const Button = styled.div`
 
         >.Btn1{
             
-            color: #F3F5FC;
+            color: ${({theme})=> theme.bcg};
             flex-direction: row;
             align-items: flex-start;
             
@@ -132,7 +132,7 @@ export const Button = styled.div`
             
             /* Dark blue/dark-blue-300 */
           
-            background: #0A3871;
+            background:  ${({theme})=> theme.text};
             border-radius: 24px;
         
             /* Inside auto layout */
@@ -142,6 +142,9 @@ export const Button = styled.div`
             flex-grow: 0;
             &:active {
             animation: ${pulseAnimation} 0.3s linear;
+            }
+            &:hover{
+              cursor: pointer;
             }
  
         }
@@ -162,7 +165,7 @@ export const Button = styled.div`
         white-space: nowrap;
         /* Dark blue/dark-blue-300 */
 
-        color: #0A3871;
+        color:  ${({theme})=> theme.text};
         flex-direction: row;
         align-items: flex-start;
         
@@ -172,10 +175,10 @@ export const Button = styled.div`
         
         /* Light gray */
         
-        background: #D8DFE8;
+        background:  ${({theme})=> theme.bcg};
         /* Dark blue/dark-blue-300 */
         
-        border: 1px solid #0A3871;
+        border: 2px solid ${({theme})=> theme.text};
         border-radius: 24px;
         
         /* Inside auto layout */
@@ -186,7 +189,9 @@ export const Button = styled.div`
         &:active {
         animation: ${pulseAnimation} 0.3s linear;
         }
- 
+        &:hover{
+              cursor: pointer;
+        }
         }
 
     @media (max-width: 820px) {
@@ -247,58 +252,6 @@ export const Button = styled.div`
 `
 export const Div = styled.div``
 
-export const Rectangle = styled.div`
-  position: fixed;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  width: 170px;
-  height: 600px;
-  left: 70%;
-  top: 50px;
-  transform: translateY(-5%);
-  background: #FFFFFF;
-  box-shadow: 0px 24px 32px -8px rgba(0, 0, 0, 0.08);
-  border-radius: 32px;
- 
-  > img {
-    
-    width: auto;
-    height: 304px;
-    left: 1032px;
-    top: 283px;
-    
-  }
-  >.ppl{
-    width: auto;
-    height: 48px;
-    font-family: 'Inter', sans-serif;
-    font-style: normal;
-    font-weight: 400;
-    font-size: 14px;
-    line-height: 150%;
-    text-align: center;
-    color: #495057;
-   
-  }
-  >h1{
-    display: flex;
-  justify-content: center;
-  align-items: center;
-  width: 186px;
-  height: 58px;
-  font-family: 'Inter', sans-serif;
-  font-style: normal;
-  font-weight: 700;
-  font-size: 16px;
-  line-height: 120%;
-  text-align: center;
-  color: #343A40;
-  margin-top: 10px;
-  margin-bottom: 0px;
-  }
-`
 
 export const Textarea = styled.div`
   position: fixed;
@@ -312,18 +265,18 @@ export const Textarea = styled.div`
   width: 577px;
   height: 300px;
   outline: none;
-  background: #F3F5FC;
+  background:  ${({theme})=> theme.bcg};
   font-weight: 400;
   font-size: 25px;
   line-height: 150%;
-  color: #0A3871;
+  color: ${({theme})=> theme.text};
   resize: none;
   border: none;
   scrollbar-width: thin;
   scrollbar-color: rgba(0, 0, 0, 0.3) transparent;
  }
   ::placeholder {
-    color: #0A3871;
+    color: ${({theme})=> theme.text};
   }
 
   ::-webkit-scrollbar {
@@ -374,11 +327,11 @@ export const Textarea = styled.div`
     margin-top: -15px;
     height: 130px;
     outline: none;
-    background: #F3F5FC;
+    
     font-weight: 400;
     font-size: 19px;
     line-height: 150%;
-    color: #0A3871;
+    
     resize: none;
     border: 0.1px solid #ccc; /* Ajusta el estilo del borde según tus necesidades */
     border-radius: 2px; 

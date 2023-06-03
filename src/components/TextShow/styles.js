@@ -44,8 +44,8 @@ export const Rectangle = styled.div`
   left: 70%;
   top: 50px;
   transform: translateY(-5%);
-  background: #FFFFFF;
-  box-shadow: 0px 24px 32px -8px rgba(0, 0, 0, 0.08);
+  background:  ${({theme})=> theme.bcg2};
+  box-shadow: 0px 4px 32px -8px rgba(0, 0, 0, 0.08);
   border-radius: 32px;
 
   > img {
@@ -54,7 +54,7 @@ export const Rectangle = styled.div`
     height: 304px;
     left: 1032px;
     top: 283px;
-   
+    
     
   }
   >.ppl{
@@ -158,7 +158,7 @@ export const Div = styled.div`
   height: 600px;
   left: 70%;
   top: 50px;
-  
+
   .btn {
     box-sizing: border-box;
     display: flex;
@@ -171,8 +171,9 @@ export const Div = styled.div`
     margin-bottom: 131px;
     margin-left: 122px;
     margin-right: 32px;
-    border: 1px solid #0A3871;
+    border: 1px solid ${({theme})=> theme.text};
     border-radius: 24px;
+    background: ${({theme})=> theme.bcg2};
     &:active {
       animation: ${pulseAnimation} 0.3s linear;
     }
@@ -186,11 +187,12 @@ export const Div = styled.div`
     height: 471px;
     left: 1032px;
     top: 72px;
+    background:  ${({theme})=> theme.bcg2};
     flex: 1;
     font-family: 'Inter', sans-serif;
     font-style: normal;
     font-weight: 400;
-    font-size: 24px;
+    font-size: 19px;
     line-height: 150%;
     text-align: left;
     margin-top: 32px;
