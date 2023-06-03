@@ -44,10 +44,10 @@ export const Rectangle = styled.div`
   left: 70%;
   top: 50px;
   transform: translateY(-5%);
-  background:  ${({theme})=> theme.bcg2};
-  box-shadow: 0px 4px 32px -8px rgba(0, 0, 0, 0.08);
+  background:  ${({theme})=> theme.bcg};
+  box-shadow: 0px 2px 32px -8px ${({theme})=> theme.rgbe};
   border-radius: 32px;
-
+  
   > img {
     
     width: 286px;
@@ -66,7 +66,7 @@ export const Rectangle = styled.div`
     font-size: 14px;
     line-height: 150%;
     text-align: center;
-    color: #495057;
+    color: ${({theme})=> theme.text};
    
   }
 
@@ -187,7 +187,7 @@ export const Div = styled.div`
     height: 471px;
     left: 1032px;
     top: 72px;
-    background:  ${({theme})=> theme.bcg2};
+    background:  ${({theme})=> theme.bcg};
     flex: 1;
     font-family: 'Inter', sans-serif;
     font-style: normal;
@@ -199,7 +199,7 @@ export const Div = styled.div`
     margin-bottom: 22px;
     margin-left: 32px;
     margin-right: 32px;
-    color: #495057;
+    color: ${({theme})=> theme.text};
     resize: none;
     border: none;
     scrollbar-width: thin;
@@ -315,7 +315,7 @@ export const Mensaje = styled.p`
   font-size: 16px;
   line-height: 120%;
   text-align: center;
-  color: #343A40;
+  color: ${({theme})=> theme.text};
   margin-top: 10px;
   margin-bottom: 0px;
 

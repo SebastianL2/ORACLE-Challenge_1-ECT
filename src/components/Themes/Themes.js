@@ -5,6 +5,7 @@ const LightTheme={
     bcg: "#eee",
     bcg2:"#eeeeee",
     bbtn:"#23374D",
+    rgbe:"rgba(0, 0, 0, 0.08)",
 };
 const DarkTheme={
     text:   "#eee",
@@ -13,6 +14,7 @@ const DarkTheme={
     bcg: "#23374D",
     bcg2:"#eee",
     bbtn:"#23374D",
+    rgbe:"rgba(241, 239, 239, 0.08);",
 };
 const Themes={
     light: LightTheme,

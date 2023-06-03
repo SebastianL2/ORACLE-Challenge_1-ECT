@@ -250,7 +250,9 @@ export const Button = styled.div`
   }
 
 `
-export const Div = styled.div``
+export const Div = styled.div`
+
+`
 
 
 export const Textarea = styled.div`

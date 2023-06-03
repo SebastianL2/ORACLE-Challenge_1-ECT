@@ -22,7 +22,20 @@ export const Container = styled.div `
     padding: 20px;
   }
 
+    >a{
+      >p{
+    
+    color: ${({theme})=> theme.text};
+    font-family: 'Open Sans', sans-serif;
+    line-height: 19px;
+  >.git{
+    width: 100%;
+    fill: ${({theme})=> theme.text};
+  }
+}
+ }
 `
+
 export const Header= styled.div`
   display: flex;
   flex-direction: column;
@@ -35,7 +48,6 @@ export const Header= styled.div`
   left: 40px;
   top: 40px;
 
-  
   @media (max-width: 820px) {
     width: 100px;
     height: 40px;

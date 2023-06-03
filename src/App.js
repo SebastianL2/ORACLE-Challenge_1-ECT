@@ -12,12 +12,14 @@ function App({texto}) {
     <div className="App">
       <ThemeProvider theme={Themes[theme]}>
      {/*Home*/}
-     <Home/>
+     <Home theme={theme} setTheme={setTheme}/>
       {/*Campo de Texto*/}
      <TextField/>
       {/*salida*/}
       <Switch theme={theme} setTheme={setTheme}/>
       </ThemeProvider>
+      
+
     </div>
   );
 }
