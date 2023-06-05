@@ -62,20 +62,9 @@ Las "llaves" de encriptación:
 
 
 
-# Application Designed as alura/Oracle next Education Program Development
-by: Sebastian Cely Peña Developer - (SebastianL2)
-Tools >                                                               
-LIBRARIES:     
-               REACTJS
-               STYLED-COMPONENTS
+# by: Sebastian Cely Peña Developer - (SebastianL2)
 
 
-# Aplicativo  Diseñado como Desarrollo del programa alura/Oracle next Education
-by: Sebastian Cely Peña Developer - (SebastianL2)
-Herrammientas >                                                                       
-LIBRERIAS:     
-               REACTJS
-               STYLED-COMPONENTS
 
 
 
