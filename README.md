@@ -5,7 +5,7 @@
   
 </div> 
 
-# Version 0.1 
+# Version 0.2 
 ![Vistaprevia](./public/imagesrd/Captura.PNG)
 
 <div align="center">
