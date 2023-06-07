@@ -61,7 +61,7 @@ Las "llaves" de encriptación:
 
 
 
-# by: Sebastian Cely Peña Developer - (SebastianL2)
+
 
 
 
