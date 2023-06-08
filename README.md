@@ -49,7 +49,7 @@ Las "llaves" de encriptación:
 |  ⚡  |   Cambio de temas claro o oscuro |
 |  ⚡  |  Agregado boton para pegar texto  |
 |  ⚡  | Animaciones para: botone, aviso de mayusculas |
-
+|  ⚡  | selector de temas  (claro,oscuro) |
 
 
 # 🔨 Funciones en desarrollo  
