@@ -5,7 +5,7 @@
   
 </div> 
 
-# Version 0.1 
+# Version 0.2 
 ![Vistaprevia](./public/imagesrd/Captura.PNG)
 
 <div align="center">
@@ -14,12 +14,11 @@
     <img src="https://img.shields.io/badge/CSS-01A3D8?logo=css3&logoColor=FFFFFF&style=for-the-badge" />
 </div>  
 
-
-
 # lIBRERIAS:
   <div align="center">
     <img src="https://camo.githubusercontent.com/ab4c3c731a174a63df861f7b118d6c8a6c52040a021a552628db877bd518fe84/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f72656163742d2532333230323332612e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d253233363144414642"/>
-   
+     <img src="https://img.shields.io/badge/Styled%20Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
+    <img src="https://img.shields.io/badge/React%20Icons-00D8FF?style=for-the-badge&logo=react&logoColor=white" />
 </div>  
  
 # ❄️Caracterisiticas del Challenge| proyecto
@@ -50,7 +49,7 @@ Las "llaves" de encriptación:
 |  ⚡  |   Cambio de temas claro o oscuro |
 |  ⚡  |  Agregado boton para pegar texto  |
 |  ⚡  | Animaciones para: botone, aviso de mayusculas |
-
+|  ⚡  | selector de temas  (claro,oscuro) |
 
 
 # 🔨 Funciones en desarrollo  
@@ -62,20 +61,9 @@ Las "llaves" de encriptación:
 
 
 
-# Application Designed as alura/Oracle next Education Program Development
-by: Sebastian Cely Peña Developer - (SebastianL2)
-Tools >                                                               
-LIBRARIES:     
-               REACTJS
-               STYLED-COMPONENTS
 
 
-# Aplicativo  Diseñado como Desarrollo del programa alura/Oracle next Education
-by: Sebastian Cely Peña Developer - (SebastianL2)
-Herrammientas >                                                                       
-LIBRERIAS:     
-               REACTJS
-               STYLED-COMPONENTS
+
 
 
 
