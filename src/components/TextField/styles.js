@@ -108,17 +108,17 @@ export const Button = styled.div`
     padding: 4px;
     gap: 24px;
     text-align: center;
-    position: absolute;
+    position: fixed;
+    margin-top: -20px;
     left: 240px;
     top: 550px;
-    position: fixed;
+    
 
         >.Btn1{
             
             color: ${({theme})=> theme.bcg};
             flex-direction: row;
             align-items: flex-start;
-            
             gap: 8px;
             border: none;
             width: 228px;

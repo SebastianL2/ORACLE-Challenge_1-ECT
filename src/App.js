@@ -16,7 +16,7 @@ function App({texto}) {
       {/*Campo de Texto*/}
      <TextField/>
       {/*salida*/}
-      <Switch theme={theme} setTheme={setTheme}/>
+     
       </ThemeProvider>
       
 
